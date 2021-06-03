@@ -1,0 +1,396 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Sighes at the contemporary deaths of those incomparable sisters, the Countesse of Cleaveland, and Mistrisse Cicily Killegrue, daughters of Sir Iohn Crofts Knight of Saxom Hall, in the Countie of Suffolke deceased, and his noble lady now living. Breathed forth by F.Q.</title>
+            <title>Sighes at the contemporary deaths of those incomparable sisters, the Countesse of Cleaveland, and Mistrisse Cicily Killegrue, daughters of Sir John Crofts Knight of Saxom Hall, in the Countie of Suffolke deceased, and his noble lady now living.</title>
+            <author>Quarles, Francis, 1592-1644.</author>
+         </titleStmt>
+         <extent>Approx. 11KB of XML-encoded text transcribed from 7 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B15432</idno><idno type="EEBO-CITATION">99850676</idno>
+  <idno type="VID">178023</idno>
+  <idno type="EEBO-PROQUEST">2240849560</idno>
+  <idno type="STC">STC 20552</idno>
+  <idno type="STC">ESTC S115457</idno>
+  
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99850676e"/>
+            <note>(EEBO-TCP ; phase 2, no. B15432)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 178023)</note>
+            <note>Images scanned from microfilm: (Early English books, 1475-1640 ; 1002:2, 1359:2)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Sighes at the contemporary deaths of those incomparable sisters, the Countesse of Cleaveland, and Mistrisse Cicily Killegrue, daughters of Sir Iohn Crofts Knight of Saxom Hall, in the Countie of Suffolke deceased, and his noble lady now living. Breathed forth by F.Q.</title>
+                  <title>Sighes at the contemporary deaths of those incomparable sisters, the Countesse of Cleaveland, and Mistrisse Cicily Killegrue, daughters of Sir John Crofts Knight of Saxom Hall, in the Countie of Suffolke deceased, and his noble lady now living.</title>
+                  <author>Quarles, Francis, 1592-1644.</author>
+               </titleStmt>
+               <extent>[32] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by Tho. Cotes, for N. Alsop; and are to be sold at the Angell in Popes head Alley,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1640.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Dedication signed: Fra. Quarles.</note>
+                  <note>In verse.</note>
+                  <note>Signatures: A-B.</note>
+                  <note>The first leaf and the last leaf are blank.</note>
+                  <note>"An elegie. Vpon the truely lamented death of Sir Iohn Wolstenholme, Knight" has separate dated title page; register is continuous.</note>
+                  <note>"An elegie" identified as STC 20539 on UMI microfilm reel 1359.</note>
+                  <note>Reproductions of the original in the Henry E. Huntington Library and Art Gallery.</note>
+                  <note>Appears at reel 1002 and at reel 1359 (same copy filmed twice).</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="personal_name">Cleveland, Anne Wentworth, --  Countess of, d. 1638 --  Death and burial --  Poetry --  Early works to 1800.</term>
+               <term type="personal_name">Killegrue, Cicely, d. 1638 --  Death and burial --  Poetry --  Early works to 1800.</term>
+               <term type="personal_name">Wolstenholme, John, --  Sir, 1562-1639 --  Death and burial --  Poetry --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-01 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-03 </date>
+            <label>Mona Logarbo </label>Sampled and proofread </change>
+         <change>
+            <date>2014-03 </date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:178023:1"/>
+            <pb facs="tcp:178023:1"/>
+            <p>An Elegie. <hi>VPON</hi> The truely lamented Death <hi>OF</hi> Sir IOHN WOLSTENHOLME, <hi>Knight; WHO</hi> On the <gap reason="blank" extent="1 span">
+                  <desc>〈1 span left blank〉</desc>
+               </gap> of <hi>November,</hi> 1639.</p>
+            <p>
+               <hi>Quitted the lower World,</hi> and put on Glorious Immortalitie.</p>
+            <p>By <hi>Fra. Quarles.</hi>
+            </p>
+            <p>
+               <hi>LONDON,</hi> Printed by <hi>Tho. Cotes,</hi> for <hi>N. Alsop;</hi> and are to be sold at the <hi>Angell</hi> in <hi>Popes head Alley.</hi> 1640.</p>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:178023:2"/>
+            <pb facs="tcp:178023:2"/>
+            <head>TO My Honorable Friend, Sir IOHN WOLSTENHOLME <hi>Knight.</hi>
+            </head>
+            <opener>
+               <salute>Sir,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">T</seg>He vertues of Parents are Freehold, but their Memo<g ref="char:EOLhyphen"/>rie is entayl'd, either Oeco<g ref="char:EOLhyphen"/>nomically, upon posterity; or pollitically, upon all: Vnder this Title I claime; and having, like the Bee, suckt hony from his Thyme, J present it to you, to sweeten his Name from the Odours of his owne Flowers. How farre I stand from flattery; J appeale: What J have done, is but a small Posie, gathered out of
+<pb facs="tcp:178023:3"/>his Garden: Happy is he, whose Herse can be stucke with such flowers: Sir, such is my confidence, that I question not your gentle Acceptance, for his sake that loves you and yours; But J acknowledge it a fuller Testimony of my affection then his worth, though short of both: For the last, the world will supply: for the first, let your goodnesse excuse</p>
+            <closer>
+               <signed>The Servant to his Memory and your merits, <hi>FRA. QVARLES.</hi>
+               </signed>
+            </closer>
+         </div>
+         <div type="epigraph">
+            <pb facs="tcp:178023:3"/>
+            <q xml:lang="lat">
+               <bibl>Greg. in Hom.</bibl>
+               <p>SIc mors cum venerit, vincitur, si priusquam veniat, expectatur.</p>
+            </q>
+            <q xml:lang="lat">
+               <bibl>Greg. sup. Math.</bibl>
+               <p>Mors Justorum bonis est in adjutorium; malis, in testimonium.</p>
+            </q>
+            <q xml:lang="lat">
+               <bibl>Bern. in Ep.</bibl>
+               <p>Mors Justi bona, propter Requiem; me<g ref="char:EOLhyphen"/>lior propter novitatem; optima, propter securitatem.</p>
+            </q>
+         </div>
+      </front>
+      <body>
+         <div type="elegy">
+            <pb facs="tcp:178023:4"/>
+            <head>An Elegie.</head>
+            <lg>
+               <head>1</head>
+               <l>AWake, you slumbring sons of Art, and rouze,</l>
+               <l>Your fancies fuddl'd with the sacred streams:</l>
+               <l>You neede not steepe your line-creating browes,</l>
+               <l>A minit longer, in your Ayrie dreames:</l>
+               <l>See, here's a Subject for you, will infuse</l>
+               <l>Such tides of Matter, that you neede not use</l>
+               <l>The helpe of Art, or once implore a Muse.</l>
+            </lg>
+            <lg>
+               <head>2.</head>
+               <l>Broach not the Vessell of your strong Invention,</l>
+               <l>Nor let your Fancies licke your rugged Rhimes;</l>
+               <l>Let your menditious teares begge no attention,</l>
+               <l>Or crave assistance from th'ungratefull Times;</l>
+               <l>See, here's a subject for you, that will teare,</l>
+               <l>The Portalls open of the deafest eare,</l>
+               <l>And force the hardest Marble to a Teare.</l>
+            </lg>
+            <lg>
+               <head>3.</head>
+               <l>Come, come, yee Masters of th'eternall Quill,</l>
+               <l>That keepe the Records of surviving glory;</l>
+               <l>In spite of dust, and death, that can, and will</l>
+               <l>Preserve our Names in your immortall story;</l>
+               <l>Record his Mem'ry, and enroll his Name,</l>
+               <l>Whose living worth the full mouth Trumpe of same,</l>
+               <l>Is proud to vent, and glories to proclaime.</l>
+            </lg>
+            <lg>
+               <pb facs="tcp:178023:4"/>
+               <head>4.</head>
+               <l>Death, that great Bug-beare of this sinfull earth,</l>
+               <l>Whose pow'r no strength, no stratageme can resist,</l>
+               <l>Whose very Name dissolves the soule of mirth,</l>
+               <l>Can tyrannize no further than you list:</l>
+               <l>Th'immortall dames, in your immortall view,</l>
+               <l>Curse their vaine tackling, leave their idle Clue,</l>
+               <l>And can not worke their ends, forbid by you.</l>
+            </lg>
+            <lg>
+               <head>5.</head>
+               <l>Else had the Glory of this Man of men</l>
+               <l>Lyen like his dust, entomb'd, had not the wing</l>
+               <l>Of glorious Fame preserv'd it for your Pen,</l>
+               <l>As a fit subject for the world to sing;</l>
+               <l>Else had this great example chalkt the wayes</l>
+               <l>Of Honor but to us, and lost the praise,</l>
+               <l>And imitation of succeeding dayes.</l>
+            </lg>
+            <lg>
+               <head>6.</head>
+               <l>Flow then, my Quill, and let thy sable Tides</l>
+               <l>Weft thy rich treasure to the worlds wide eares:</l>
+               <l>Feare not to let thy prizes be discried;</l>
+               <l>Sighes be thy Impost, and thy Custome, teares</l>
+               <l>Proclame thy lading: say, thou are repleat</l>
+               <l>With all those sum-lesse sums, that did cōpleat,</l>
+               <l>And make the Name of <hi>Wolstenholme</hi> so great.</l>
+            </lg>
+            <lg>
+               <pb facs="tcp:178023:5"/>
+               <head>7.</head>
+               <l>Great is his Name indeed; yea, ev'n so great,</l>
+               <l>As gracious vertue 'inseperably joyn'd</l>
+               <l>With morall worth, can make; made more com<g ref="char:EOLhyphen"/>pleat</l>
+               <l>With the rich Gifts of Fortunes, as of Minde</l>
+               <l>Made greater yet, in being truely blest</l>
+               <l>With a calme conscience, in a smiling brest,</l>
+               <l>With living Honor, and a dying Rest.</l>
+            </lg>
+            <lg>
+               <head>8.</head>
+               <l>How farre his ancient lineage hath convay'd</l>
+               <l>His gentle Blood to these unhappy times,</l>
+               <l>Will crave discourse too ample to be made</l>
+               <l>The proper subject of our pursie Rhymes;</l>
+               <l>Nor neede we borrow honor from past dayes,</l>
+               <l>To peece his worth: H'as left enough to raise</l>
+               <l>A perfect <hi>Pyramis</hi> to his owne praise.</l>
+            </lg>
+            <lg>
+               <head>9.</head>
+               <l>Iudgement was palac'd here; and to his heart,</l>
+               <l>Wel-grounded wisdome was a welcome Guest;</l>
+               <l>The righteous <hi>Virgine</hi> rul'd his better part,</l>
+               <l>And kept a Court of Chaunc'ry in his brest<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>.</l>
+               <l>Truth banisht eare-corrupting Error hence,</l>
+               <l>Grace clipt the wings of faith-controling Sense,</l>
+               <l>And with his wisedome mingled Innocence.</l>
+            </lg>
+            <lg>
+               <pb facs="tcp:178023:5"/>
+               <head>10.</head>
+               <l>Knowledge was treasur'd here; knowledge refin'd</l>
+               <l>In wisdomes Furnace, from her drossie pride,</l>
+               <l>The high Ambition of whose humble minde</l>
+               <l>Was but to know his frailtie and his Gulde:</l>
+               <l>The vastnesse of his knowledge did extend,</l>
+               <l>A large circumference, whose point did tend,</l>
+               <l>To th' Center of his God, himselfe, his end.</l>
+            </lg>
+            <lg>
+               <head>11.</head>
+               <l>Love, and true friendship, here, went arme in arme,</l>
+               <l>And sweetned all his actions; in his eye</l>
+               <l>Ingenuous mildlesse did present a Charme,</l>
+               <l>Too stout for rude Rebellion to deny:</l>
+               <l>Within the palace of his loyall brest,</l>
+               <l>Crown'd with unblemisht faith did sweetly rest</l>
+               <l>A single heart: He was what he profest.</l>
+            </lg>
+            <lg>
+               <head>12.</head>
+               <l>Mirth, taught to smile by the serene suggestion</l>
+               <l>Of secret peace, adorn'd his chearefull brow:</l>
+               <l>His conscience could not aske too hard a question</l>
+               <l>For his faire Innocence to answer to,</l>
+               <l>If ever ugly Guilt should chance t'appeare</l>
+               <l>Before his Eye, or whisper in his Eare,</l>
+               <l>His pensive faith would clense it with a teare.</l>
+            </lg>
+            <lg>
+               <pb facs="tcp:178023:6"/>
+               <head>13.</head>
+               <l>Noble were all his Actions, just and free;</l>
+               <l>Prudently simple, providently wise:</l>
+               <l>Not vaunting so, that every eye should see;</l>
+               <l>Nor yet so close, to be affraid of eyes:</l>
+               <l>His great imployment, tooke a pride to waite</l>
+               <l>Vpon the common good, and did relate,</l>
+               <l>To the Honor of his God, the Church, the State.</l>
+            </lg>
+            <lg>
+               <head>14.</head>
+               <l>Or if thy yet-enquiring eye inspect</l>
+               <l>His private Actions, they will blazon forth</l>
+               <l>A pious heart, and gloriously reflect</l>
+               <l>Vpon the honour of his Name, his worth:</l>
+               <l>His prudent hand did neither loosly wast,</l>
+               <l>Nor hid his Talent; His full hand did cast</l>
+               <l>His bounteous Bread for every want to tast.</l>
+            </lg>
+            <lg>
+               <head>15.</head>
+               <l>Peace-nurrisht Plenty did not onely waite</l>
+               <l>Vpon the welcome of his chearefull board,</l>
+               <l>But fairely sacrifiz'd before his Gate;</l>
+               <l>Almes came, unask'd; and Plenty, unimplor'd:</l>
+               <l>No whining voyce was ever heard to call:</l>
+               <l>The blessed Portalls of his bounteous Hall,</l>
+               <l>Were, every day, become an Hospitall.</l>
+            </lg>
+            <lg>
+               <pb facs="tcp:178023:6"/>
+               <head>16.</head>
+               <l>Quick sighted Envy, heare may snarle, and barke,</l>
+               <l>And gnaw her viperous tongue, or burst for spite;</l>
+               <l>Her spleene-fed malice ne're had such a marke;</l>
+               <l>Her poyson'd shafts had ne're so faire a white:</l>
+               <l>His name's an Antidote that can repell</l>
+               <l>The very Quintessence of Aspes, and quell</l>
+               <l>The blacke Artilry of malicious Hell.</l>
+            </lg>
+            <lg>
+               <head>17.</head>
+               <l>Rest happy soule, and let unfrighted sleepe,</l>
+               <l>Crowne thy blest Urne with unmolested peace;</l>
+               <l>And let glad <hi>Abra'ms</hi> glorious bosome keepe</l>
+               <l>Thy better part in joyes that never cease:</l>
+               <l>Triumph, enthron'd with thy Angellike peeres,</l>
+               <l>And let <hi>Hosannaes</hi> fill thy sacred eares,</l>
+               <l>Whilst we embalme thy ashes with our teares.</l>
+            </lg>
+            <lg>
+               <head>18.</head>
+               <l>Sorrow, (a name as much unknowne to thee,</l>
+               <l>As thy full joyes to us) must fill our brests;</l>
+               <l>And we poore Mortalls are condemn'd to be</l>
+               <l>A prey to sadnesse, whilst thy Spirit rests</l>
+               <l>Discharg'd of discontented earth, and free</l>
+               <l>Frō all those damps, &amp; fleshly Qualmes, that we,</l>
+               <l>Blind to thy Gaines, have through the losse of thee.</l>
+            </lg>
+            <lg>
+               <pb facs="tcp:178023:7"/>
+               <head>19.</head>
+               <l>Tis not a private losse, whose easie date,</l>
+               <l>Determines with a sigh; and so an end:</l>
+               <l>The Church hath lost a Patron; and the State,</l>
+               <l>A loyall Servant; and the Poore, a Friend:</l>
+               <l>The <hi>Oeconomicke</hi> shoulder onely beares</l>
+               <l>A single burthen, and it quickly weares;</l>
+               <l>But Panik sorrowes must have Panik teares.</l>
+            </lg>
+            <lg>
+               <head>20.</head>
+               <l>Victorious passion here, triumphes and raignes</l>
+               <l>With Reason in an equall <hi>Diarchy;</hi>
+               </l>
+               <l>Now, publike losse, and not his private gaines</l>
+               <l>Are the sad object of our tearefull eyes;</l>
+               <l>And then, the joy of his Joy-entred soule</l>
+               <l>Cancels those tears: our selves, our selfs cōtroule,</l>
+               <l>And even what we congratulate, we condole.</l>
+            </lg>
+            <lg>
+               <head>21.</head>
+               <l>Wipe off those teares, or if they needes must fall;</l>
+               <l>Take a new Object, to redeeme their losse;</l>
+               <l>They'l serve thee to lament thy selfe withall:</l>
+               <l>Better retail'd, than lavisht out in Grosse:</l>
+               <l>Husband thy Fountaines well: Thou needs not feare</l>
+               <l>The danger of a second Deluge there</l>
+               <l>If thou but droppe for every sinne a teare.</l>
+            </lg>
+            <lg>
+               <pb facs="tcp:178023:7"/>
+               <head>22.</head>
+               <l>You that desire to leave a lasting story,</l>
+               <l>Wherein your Names may live for ever crownd;</l>
+               <l>Here, gaining Honor; and hereafter, Glory;</l>
+               <l>In life rewarded, and in death renown'd;</l>
+               <l>Behold your great Example; in whose wayes,</l>
+               <l>Can you but leade your Progresse, ye shall raise</l>
+               <l>Eternall Trophies of immortall Praise.</l>
+            </lg>
+         </div>
+         <trailer>The End.</trailer>
+      </body>
+   </text>
+</TEI>
